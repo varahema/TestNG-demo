@@ -7,6 +7,7 @@ public class FirstTest {
         driver.get("https://www.google.com");
         System.out.println("Page title: " + driver.getTitle());
         System.out.println("first code moved to git");
+        System.out.println("first 1st code moved to git");
         driver.quit();
         
     }
